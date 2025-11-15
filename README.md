@@ -1,3 +1,13 @@
+# Admin Dashboard
+## Tools
+### vs code plugs
+- VS Code ES7+ React/Redux/React-Native/JS snippets - 打些縮寫就能快速建構程式碼
+- Markdown Preview Enhanced - 產生 Markdown 預覽
+
+### npm package
+- npm install clsx tailwind-merge
+
+---
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
